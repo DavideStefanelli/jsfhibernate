@@ -1,0 +1,17 @@
+.form-signin{
+    max-width: 330px; 
+    margin: auto;
+}
+
+.form-control {
+    margin-bottom: .7vw;
+}
+
+.table td, .table th {
+     vertical-align: middle !important;
+}
+
+.foo-button {
+    width: 200px;
+    
+}
